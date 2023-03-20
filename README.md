@@ -1,4 +1,4 @@
-# Hi there, I'm amiin deeq
+# Hi there, I'm M.amiin deeq
 
 ![](https://komarev.com/ghpvc/?username=your-github-amiindeeq&color=blueviolet&style=flat-square)
 
